@@ -1,12 +1,21 @@
 navbar_entries:
-  - title: about
+  - title: about #describe lab, PI, contact info for me, etc. 
     url: about
 
-  - title: blog
-    url: blog
+  - title: people #list current members, past members 
+    url: people
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: projects #list all projects (Active + Completed), project pages may have multiple publications/components of work
+    url: projects 
+
+  - title: publications #pretty standard list of lab publications under VT affiliation
+    url: publications
+
+  - title: downloads #direct links to code/datasets/etc., simple links to gitlab repos or zenodo records
+    url: downloads
+
+  - title: prospective students
+    url: prospective
 
 project_entries:
   - title: Project 1
@@ -54,8 +63,8 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: CS @ VT
+    url: https://https://cs.vt.edu/
 
   - title: twitter
     url: https://twitter.com/abhinav
