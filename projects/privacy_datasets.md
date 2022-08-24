@@ -1,8 +1,6 @@
 ---
 layout: post
-title: asdfadf
+title: Privacy Guarantees for Eye-Tracking Datasets
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+TODO!

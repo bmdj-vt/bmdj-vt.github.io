@@ -2,7 +2,9 @@ title: PrivateEye Lab @ VT
 author: Brendan David-John
 url: https://bmdj-vt.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to the PrivateEye lab webpage! We are research group in Computer Science @ Virginia Tech studying interaction in virtual/mixed/augmented reality (XR) with a particlar focus on eye tracking and resulting implications on privacy
+  Welcome to the PrivateEye lab webpage! We are research group in CS @ Virginia Tech studying interaction in virtual/mixed/augmented reality (XR) with a particlar focus on eye tracking and protecting privacy. 
+  
+#TODO: fancy photo of lab, or equipment
 
 permalink: /:slug
 
@@ -26,14 +28,14 @@ theme_config:
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: false # show blog posts added in _posts
-  show_old_projects: true # show old projects as cards, add in _data/home.yml
-  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
+  show_blog: true # show blog posts added in _posts
+  show_old_projects: false #BDJ: false until we have completed projects. show old projects as cards, add in _data/home.yml 
+  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
     title_projects: Active Projects 
+    title_blog: News
     title_misc_list: Details
-    title_blog: Blog
     title_old_projects: Completed Projects
 
 soopr:

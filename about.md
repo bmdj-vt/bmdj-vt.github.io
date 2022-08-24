@@ -1,8 +1,17 @@
 ---
 layout: post
-title: About
+title: About PrivateEye
 ---
 
-This is an example page!
+## Principal Investigator
 
-Actually, it has the same layout of a post...
+Brendan David-John
+Assistant Professor, Computer Science, Virginia Tech
+
+Ph.D: University of Florida 2022
+MS: Rochester Institute of Technology 2017
+BS: Rochester Institute of Technology 2017
+
+## What we do
+
+...

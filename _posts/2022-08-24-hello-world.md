@@ -1,3 +1,8 @@
+---
+layout: post
+author: Brendan David-John
+---
+
 Hello!
 
-Welcome to the PrivateEye lab website!
+PrivateEye lab is born!
