@@ -1,11 +1,13 @@
 ---
-layout: post
-title: About Us
+layout: full_header
+title: About
 ---
 
 ## Principal Investigator
 
-![Brendan](assets/images/people/brendan.jpg)
+
+
+![Portrait photo of Brendan David-John]({{root_url}}/assets/images/people/brendan.jpg)
 
 Brendan David-John\
 Assistant Professor, Computer Science, Virginia Tech

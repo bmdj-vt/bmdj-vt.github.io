@@ -6,7 +6,7 @@ navbar_entries:
     url: people
 
   - title: projects #list all projects (Active + Completed), project pages may have multiple publications/components of work
-    url: projects/index
+    url: projects_list
 
   - title: publications #pretty standard list of lab publications under VT affiliation
     url: publications
@@ -19,7 +19,7 @@ navbar_entries:
 
 project_entries:
   - title: Privacy Guarantees for Eye-Tracking Datasets
-    url: /projects/privacy_datasets
+    url: /project_pages/privacy_datasets
     desc: Formal privacy guarantees (k-anonymity, ε-Differential Privacy, k,γ-Plausible Deniability) for VR eye-tracking datasets
     highlight: NEW
 
@@ -38,7 +38,7 @@ footer_entries:
     url: https://twitter.com/br_davidjohn
 
   - title: gitlab
-    url: https://github.com/bmdj-vt #todo: privateeye gitlab
+    url: https://version.cs.vt.edu/privateeye
 
 misc_entries:
   - title: 08/10/2022 -- PrivateEye Lab is born!
