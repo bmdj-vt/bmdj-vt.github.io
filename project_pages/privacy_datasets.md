@@ -8,10 +8,18 @@ title: Privacy Guarantees for Eye-Tracking Datasets
 Projects exploring methods that achieve formal privacy guarantees for eye-tracking datasets in the context of defending against re-identification attacks on gaze-based biometrics.
 
 
-#### Providing Privacy for Eye-Tracking Data  with Applications in XR
-Open access dissertation document to appear once it appears in the UF digital library. 
+#### Privacy-preserving datasets of eye-tracking samples with applications in XR (IEEE VR 2023)
+Brendan David-John, Kevin Butler, Eakta Jain. 2023.\
+In IEEE Transaction on Visualization and Computer Graphics (TVCG) Special Issue on IEEE Virtual Reality and 3D User Interfaces (IEEE VR) 2023.
 
-#### For Your Eyes Only: Privacy-preserving eye-tracking datasets
+ - [PDF (pre-print to appear)]
+ - [IEEE DOI](https://doi.org/10.1109/TVCG.2023.3247048)
+
+
+#### Providing Privacy for Eye-Tracking Data with Applications in XR
+Open access dissertation document available through [UF libraries](https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/6ad6fc/alma99383985066506597). 
+
+#### For Your Eyes Only: Privacy-preserving eye-tracking datasets (ETRA 2022)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrCt04v_llM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Brendan David-John, Kevin Butler, Eakta Jain. 2022.\
