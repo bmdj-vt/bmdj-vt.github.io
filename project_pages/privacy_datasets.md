@@ -12,7 +12,7 @@ Projects exploring methods that achieve formal privacy guarantees for eye-tracki
 Brendan David-John, Kevin Butler, Eakta Jain. 2023.\
 In IEEE Transaction on Visualization and Computer Graphics (TVCG) Special Issue on IEEE Virtual Reality and 3D User Interfaces (IEEE VR) 2023.
 
- - [PDF (pre-print to appear)]
+ - [PDF (accepted version)](https://drive.google.com/file/d/17xmScsxCWUaoTV3LKwyxV3h0uAFyl0mo/view?usp=share_link)
  - [IEEE DOI](https://doi.org/10.1109/TVCG.2023.3247048)
 
 
@@ -25,6 +25,6 @@ Open access dissertation document available through [UF libraries](https://ufl-f
 Brendan David-John, Kevin Butler, Eakta Jain. 2022.\
 In Proceedings of 2022 ACM Symposium on Eye Tracking Research and Applications (ETRA '22 Short Papers).
 
- - [PDF]({{root_url}}/assets/pdfs/etra_2022_accepted_version.pdf)
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/etra_2022_accepted_version.pdf)
  - [Code](https://doi.org/10.5281/zenodo.6463849)
  - [ACM DOI](https://doi.org/10.1145/3517031.3529618)

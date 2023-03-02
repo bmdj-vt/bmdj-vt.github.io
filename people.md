@@ -14,10 +14,10 @@ Brendan David-John\
 
 ## [Graduate Students](#grad)
 
-Gabriella 'Nikki' Ramirez\
+Gabriella 'Nikki' Ramirez-Saffy\
 Ph.D. Student
 
-![Portrait photo of Gabriella 'Nikki' Ramirez]({{root_url}}/assets/images/people/nikki.jpg)
+![Portrait photo of Gabriella 'Nikki' Ramirez-Saffy]({{root_url}}/assets/images/people/nikki.jpg)
 
 Anish Narkar\
 Ph.D. Student\
@@ -25,10 +25,12 @@ Ph.D. Student\
 
 ![Portrait photo of Anish Nakar]({{root_url}}/assets/images/people/anish.jpg)
 
+## [Undergraduate Students](#undergrad)
 
+Sraavya Gudavalli\
+CS '23, HCI Minor\
+[LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
 
+![Portrait photo of Sraavya Gudavalli]({{root_url}}/assets/images/people/sraavya.png)
 
-## [Undergraduate Students ](#undergrad)
-
-
-
+## [Alumni](#alumni)
