@@ -17,7 +17,7 @@ Brendan David-John\
 Gabriella 'Nikki' Ramirez-Saffy\
 Ph.D. Student
 
-![Portrait photo of Gabriella 'Nikki' Ramirez-Saffy]({{root_url}}/assets/images/people/nikki.jpg)
+![Portrait photo of Nikki Ramirez-Saffy]({{root_url}}/assets/images/people/nikki.jpg)
 
 Anish Narkar\
 Ph.D. Student\
