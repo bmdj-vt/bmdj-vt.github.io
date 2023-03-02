@@ -25,7 +25,11 @@ Knowledge Works II\
 Blacksburg, VA 24060
 
 Personal Website: brendandavidjohn.app\
-[Erdős Number](https://www.csauthors.net/distance/brendan-david-john/paul-erdos): 4
+[Google Scholar](https://scholar.google.com/citations?user=YFxRRDUAAAAJ&hl=en)\
+[ORCID](https://orcid.org/0000-0003-3292-1130)\
+[Erdős Number](https://www.csauthors.net/distance/brendan-david-john/paul-erdos): 4\
+[Dijkstra Number](https://www.csauthors.net/distance/brendan-david-john/paul-erdos): 4
+
 
 ## Funding
 CCI SW Virginia Node Innovation: Ideation to Commercialization FY23 (co-PI, 2023-2024)
