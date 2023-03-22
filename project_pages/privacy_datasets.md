@@ -16,7 +16,7 @@ In IEEE Transaction on Visualization and Computer Graphics (TVCG) Special Issue 
 
  - [Teaser Video](https://youtu.be/nNGx6xgXwXo)
  - [PDF (accepted version)](https://drive.google.com/file/d/17xmScsxCWUaoTV3LKwyxV3h0uAFyl0mo/view?usp=share_link)
- - [Supplementary](https://drive.google.com/file/d/11gcgF3rKQXrz5czc84ivyBv1lFYIL0nQ/view?usp=share_link)
+ - [Supplementary (psedo-code!)](https://drive.google.com/file/d/11gcgF3rKQXrz5czc84ivyBv1lFYIL0nQ/view?usp=share_link)
  - [IEEE DOI](https://doi.org/10.1109/TVCG.2023.3247048)
 
 
