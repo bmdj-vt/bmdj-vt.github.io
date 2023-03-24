@@ -9,11 +9,12 @@ Projects exploring methods that achieve formal privacy guarantees for eye-tracki
 
 
 #### Privacy-preserving datasets of eye-tracking samples with applications in XR (IEEE VR 2023)
-<iframe width="560" height="315" src="https://youtube.com/embed/nNGx6xgXwXo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/ZpS-evS8rkY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Brendan David-John, Kevin Butler, Eakta Jain. 2023.\
 In IEEE Transaction on Visualization and Computer Graphics (TVCG) Special Issue on IEEE Virtual Reality and 3D User Interfaces (IEEE VR) 2023.
 
+ - [Video Presentation](https://youtu.be/ZpS-evS8rkY)
  - [Teaser Video](https://youtu.be/nNGx6xgXwXo)
  - [PDF (accepted version)](https://drive.google.com/file/d/17xmScsxCWUaoTV3LKwyxV3h0uAFyl0mo/view?usp=share_link)
  - [Supplementary (psedo-code!)](https://drive.google.com/file/d/11gcgF3rKQXrz5czc84ivyBv1lFYIL0nQ/view?usp=share_link)
