@@ -16,8 +16,8 @@ In IEEE Transaction on Visualization and Computer Graphics (TVCG) Special Issue 
 
  - [Video Presentation](https://youtu.be/ZpS-evS8rkY)
  - [Teaser Video](https://youtu.be/nNGx6xgXwXo)
- - [PDF (accepted version)](https://drive.google.com/file/d/17xmScsxCWUaoTV3LKwyxV3h0uAFyl0mo/view?usp=share_link)
- - [Supplementary (psedo-code!)](https://drive.google.com/file/d/11gcgF3rKQXrz5czc84ivyBv1lFYIL0nQ/view?usp=share_link)
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/2023_IEEE_VR_sample_privacy_datasets.pdf)
+ - [Supplementary (psedo-code!)]({{root_url}}/assets/pdfs/2023_IEEE_VR_sample_privacy_datasets_supp.pdf)
  - [IEEE DOI](https://doi.org/10.1109/TVCG.2023.3247048)
 
 
