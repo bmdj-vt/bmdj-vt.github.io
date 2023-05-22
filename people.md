@@ -25,12 +25,28 @@ Ph.D. Student\
 
 ![Portrait photo of Anish Nakar]({{root_url}}/assets/images/people/anish.jpg)
 
+Raghav Sethi\
+Masters Student\
+[LinkedIn](https://www.linkedin.com/in/rghv96/)
+
+![Portrait photo of Raghav Sethi]({{root_url}}/assets/images/people/raghav.jpg)
+
+Nick Gazzillo 
+Masters Student\
+[LinkedIn](https://www.linkedin.com/in/nickgazzillo/)
+
+![Portrait photo of Nick Gazzillo]({{root_url}}/assets/images/people/nick.jpg)
+
+Jan Michalak\
+Masters Student\
+[LinkedIn](https://www.linkedin.com/in/janjakubmichalak/)
+
+![Portrait photo of Jan Michalak]({{root_url}}/assets/images/people/jan.jpg)
+
 ## [Undergraduate Students](#undergrad)
+
+## [Alumni](#alumni)
 
 Sraavya Gudavalli\
 CS '23, HCI Minor\
 [LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
-
-![Portrait photo of Sraavya Gudavalli]({{root_url}}/assets/images/people/sraavya.png)
-
-## [Alumni](#alumni)
