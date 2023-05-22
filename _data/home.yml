@@ -24,7 +24,7 @@ project_entries:
 
   - title: AR Bystander Privacy
     url: /project_pages/bystander_privacy
-    desc: Projects exploring methods that achieve formal privacy guarantees for eye-tracking datasets in the context of defending against re-identification attacks on gaze-based biometrics.
+    desc: Projects exploring bystander privacy issues, i.e, facial identity captured by visual camera data, in the context of wearable AR headsets
     highlight: NEW
 
 old_project_entries:
