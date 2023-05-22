@@ -31,7 +31,7 @@ Masters Student\
 
 ![Portrait photo of Raghav Sethi]({{root_url}}/assets/images/people/raghav.jpg)
 
-Nick Gazzillo 
+Nick Gazzillo\
 Masters Student\
 [LinkedIn](https://www.linkedin.com/in/nickgazzillo/)
 
