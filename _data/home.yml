@@ -21,6 +21,10 @@ project_entries:
   - title: Privacy Guarantees for Eye-Tracking Datasets
     url: /project_pages/privacy_datasets
     desc: Formal privacy guarantees (k-anonymity, ε-Differential Privacy, k,γ-Plausible Deniability) for VR eye-tracking datasets
+
+  - title: AR Bystander Privacy
+    url: /project_pages/bystander_privacy
+    desc: Projects exploring methods that achieve formal privacy guarantees for eye-tracking datasets in the context of defending against re-identification attacks on gaze-based biometrics.
     highlight: NEW
 
 old_project_entries:
