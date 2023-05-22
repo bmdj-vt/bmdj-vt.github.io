@@ -8,7 +8,7 @@ title: People
 
 Brendan David-John\
 [CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)\
-[Personal Webpage](brendandavidjohn.app)
+[Personal Webpage](https://brendandavidjohn.app)
 
 ![Portrait photo of Brendan David-John]({{root_url}}/assets/images/people/brendan.jpg)
 
