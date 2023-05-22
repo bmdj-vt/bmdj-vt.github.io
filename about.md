@@ -12,6 +12,7 @@ title: About
 Brendan David-John\
 Assistant Professor, Computer Science, Virginia Tech
 
+[CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)\
 Ph.D: University of Florida 2022\
 MS: Rochester Institute of Technology 2017\
 BS: Rochester Institute of Technology 2017
