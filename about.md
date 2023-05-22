@@ -19,9 +19,8 @@ BS: Rochester Institute of Technology 2017
 ## Contact
 email: bmdj AT vt.edu
 
-Office #1142\
-Knowledge Works II\
-2022 Kraft Drive\
+Office #3203\
+220 Gilbert Street\
 Blacksburg, VA 24060
 
 Personal Website: brendandavidjohn.app\
@@ -32,6 +31,22 @@ Personal Website: brendandavidjohn.app\
 
 
 ## Funding
+Virginia Tech ICAT Major SEAD Grant (PI, 2023-2024)
+Securing Trustworthy XR Interactions through Human-Machine Networks in Healthcare
+Total: $25,000
+
+Virginia Tech Center for HCI Planning Grant (PI, 2023-2024)
+Understanding the long-term impact and perceptions of privacy-enhancing technologies for bystander obscuration in wearable AR displays
+Total: $15,000
+
+Virginia Tech LAUNCH Proof-of-Concept Program (PI, 2023-2024)
+Prototype Refinement and Customer Discovery for Bystander Privacy in AR Systems
+Total: $50,000
+
+Virginia Tech 4-VA Pre-Tenure Faculty Research Grant Proposal Program SP23 (PI, 2023)
+Personalizing machine-learning guided navigation interfaces in Virtual and Augmented Reality
+Total: $15,000
+
 CCI SW Virginia Node Innovation: Ideation to Commercialization FY23 (co-PI, 2023-2024)
 Protecting Bystander Visual Data Privacy in Augmented Reality Systems
 Total: $50,000, co-PI share: $6,007
@@ -42,4 +57,4 @@ Total: $50,000, co-PI share: $25,000
 
 Virginia Tech Policy Scholar Professional Development Program (PI, 2022-2023)
 Framing the intersections of policy with security and privacy in the future of XR technology
-Total: $10,600, PI share: $9,500
+Total: $10,600
