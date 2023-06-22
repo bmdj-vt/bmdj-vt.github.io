@@ -1,6 +1,6 @@
 ---
 layout: full_header
-title: Publications & Patents
+title: Publications (courtesy [csauthors.net](https://www.csauthors.net/brendan-david-john/))
 ---
 
 <!-- This div is a placeholder which will contain the publications -->
