@@ -1,7 +1,9 @@
 ---
 layout: full_header
-title: Publications (courtesy [csauthors.net](https://www.csauthors.net/brendan-david-john/))
+title: Publications 
 ---
+
+Courtesy of [csauthors.net](https://www.csauthors.net/brendan-david-john/)
 
 <!-- This div is a placeholder which will contain the publications -->
 <div id="pubszone">
