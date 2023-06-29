@@ -28,10 +28,14 @@ Personal Website: brendandavidjohn.app\
 [Google Scholar](https://scholar.google.com/citations?user=YFxRRDUAAAAJ&hl=en)\
 [ORCID](https://orcid.org/0000-0003-3292-1130)\
 [Erdős Number](https://www.csauthors.net/distance/brendan-david-john/paul-erdos): 4\
-[Dijkstra Number](https://www.csauthors.net/distance/brendan-david-john/paul-erdos): 4
+[Dijkstra Number](https://www.csauthors.net/distance/edsger-w-dijkstra/brendan-david-john): 4
 
 
 ## Funding
+CCI SW Virginia Node Research Engagement Program FY23 (PI, 2023-2024)
+Team Building and Privacy Expert Recruitment for a Workshop on Bystander Obscuration in Wearable Augmented Reality Displays
+Total: $20,000
+
 Virginia Tech ICAT Major SEAD Grant (PI, 2023-2024)
 Securing Trustworthy XR Interactions through Human-Machine Networks in Healthcare
 Total: $25,000
