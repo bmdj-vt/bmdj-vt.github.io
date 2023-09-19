@@ -31,6 +31,12 @@ Ph.D. Student\
 
 ![Portrait photo of Syed Ibrahim Mustafa Shah B.]({{root_url}}/assets/images/people/ibrahim.jpg)
 
+Paul Maynard\
+Ph.D. Student\
+[LinkedIn](https://www.linkedin.com/in/paul-maynard-mayntech/)
+
+![Portrait photo of Paul Maynard]({{root_url}}/assets/images/people/paul.jpg)
+
 Raghav Sethi\
 Masters Student\
 [Personal Webpage](https://rghv96.github.io/)

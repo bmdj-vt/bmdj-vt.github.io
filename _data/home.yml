@@ -11,6 +11,9 @@ navbar_entries:
   - title: publications #pretty standard list of lab publications under VT affiliation
     url: publications
 
+  - title: teaching #list current courses, past courses
+    url: teaching
+
   - title: downloads #direct links to code/datasets/etc., simple links to gitlab repos or zenodo records
     url: downloads
 
