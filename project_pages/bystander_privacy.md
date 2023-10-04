@@ -16,4 +16,4 @@ In 21st ACM International Conference on Mobile Systems, Applications, and Servic
 
  - [Teaser Video](https://youtu.be/VOdCPqdzPjE)
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/mobisys23_accepted_version.pdf)
- - [ACM DOI]() To appear.
+ - [ACM DOI](https://dl.acm.org/doi/abs/10.1145/3581791.3596830)
