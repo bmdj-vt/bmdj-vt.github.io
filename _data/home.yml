@@ -20,6 +20,9 @@ navbar_entries:
   - title: prospective students
     url: prospective
 
+  - title: XR privacy/security list-serv
+    url: listserv
+
 project_entries:
   - title: Privacy Guarantees for Eye-Tracking Datasets
     url: /project_pages/privacy_datasets
