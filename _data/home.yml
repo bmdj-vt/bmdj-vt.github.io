@@ -17,9 +17,6 @@ navbar_entries:
   - title: downloads #direct links to code/datasets/etc., simple links to gitlab repos or zenodo records
     url: downloads
 
-  - title: prospective students
-    url: prospective
-
   - title: XR privacy/security list-serv
     url: listserv
 
