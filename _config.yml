@@ -2,7 +2,7 @@ title: PrivateEye Lab @ VT
 author: Brendan David-John
 url: https://bmdj-vt.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to the PrivateEye lab webpage! We are research group in CS @ Virginia Tech studying interaction in virtual/mixed/augmented reality (XR) with a particlar focus on eye tracking and protecting privacy. 
+  Welcome to the PrivateEye lab webpage! We are a research group in CS @ Virginia Tech studying interaction in virtual/mixed/augmented reality (XR) with a particlar focus on eye tracking and protecting privacy. 
 
   
 #![Eye Image](assets/images/logo.png)
