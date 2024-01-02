@@ -30,6 +30,11 @@ project_entries:
     desc: Projects exploring bystander privacy issues, i.e, facial identity captured by visual camera data, in the context of wearable AR headsets
     highlight: NEW
 
+  - title: Securing XR for Healthcare
+    url: /project_pages/securing_xr
+    desc: ICAT SEAD funded project exploring secure and trustworthy XR interactions for healthcare
+    highlight: NEW
+
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
