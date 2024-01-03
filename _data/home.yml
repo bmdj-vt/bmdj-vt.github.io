@@ -28,7 +28,6 @@ project_entries:
   - title: AR Bystander Privacy
     url: /project_pages/bystander_privacy
     desc: Projects exploring bystander privacy issues, i.e, facial identity captured by visual camera data, in the context of wearable AR headsets
-    highlight: NEW
 
   - title: Securing XR for Healthcare
     url: /project_pages/securing_xr
