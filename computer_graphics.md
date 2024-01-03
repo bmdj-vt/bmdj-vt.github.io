@@ -29,7 +29,7 @@ title: CS4204 Computer Graphics
  
 ### Texture Filtering: Alex Truxess
 
-TO APPEAR
+![]({{root_url}}/assets/images/courses/texture_filtering.png)
  
 ### Animation Team #1: Allison Deaton, Ken Lin
 
