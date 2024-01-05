@@ -1,6 +1,0 @@
----
-layout: post
-author: Brendan David-John
----
-
-On December 4, 2023, "Securing Bystander Privacy in Mixed Reality While Protecting the User Experience" was conditionally accepted to IEEE Security & Privacy. The project is a collaboration with Matthew Corbett (VT, lead author), Dr. Jiacheng Shang (Montclair State), Dr. Y. Charile Hu (Purdue), and Dr. Bo Ji (VT).
