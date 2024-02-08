@@ -63,8 +63,16 @@ Masters Student\
 
 ## [Undergraduate Students](#undergrad)
 
+Ken Lin\
+CS Student\
+[LinkedIn](https://www.linkedin.com/in/lken/)
+
+![Portrait photo of Ken Lin]({{root_url}}/assets/images/people/ken.png)
+
 ## [Alumni](#alumni)
 
 Sraavya Gudavalli\
 CS '23, HCI Minor\
 [LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
+
+![Portrait photo of Sraavya Gudavalli]({{root_url}}/assets/images/people/sraavya.png)
