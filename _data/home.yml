@@ -29,6 +29,10 @@ project_entries:
     url: /project_pages/bystander_privacy
     desc: Projects exploring bystander privacy issues, i.e, facial identity captured by visual camera data, in the context of wearable AR headsets
 
+  - title: Intent Modeling
+    url: /project_pages/intent_modeling
+    desc: Projects exploring intent modeling via ML methods to support naturalistic interaction in XR
+
   - title: Securing XR for Healthcare
     url: /project_pages/securing_xr
     desc: ICAT SEAD funded project exploring secure and trustworthy XR interactions for healthcare
