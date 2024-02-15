@@ -32,6 +32,10 @@ Personal Website: brendandavidjohn.app\
 
 
 ## Funding
+Student Engineers' Council (PI, 2023-2024) Funding to support speaker engagement for CubeFest 2024 Total: $9500
+
+VT Diverse Voices and Perspectives Lecture Series (PI, Fall 2023) Funding to support speaker Amelia Winger-Bearskin Total: $750
+
 CCI SW Virginia Node Research Engagement Program FY23 (PI, 2023-2024)
 Team Building and Privacy Expert Recruitment for a Workshop on Bystander Obscuration in Wearable Augmented Reality Displays
 Total: $20,000
@@ -63,7 +67,3 @@ Total: $50,000, co-PI share: $25,000
 Virginia Tech Policy Scholar Professional Development Program (PI, 2022-2023)
 Framing the intersections of policy with security and privacy in the future of XR technology
 Total: $10,600
-
-VT Diverse Voices and Perspectives Lecture Series (PI, Fall 2023) Funding to support speaker Amelia Winger-Bearskin Total: $750
-
-Student Engineers' Council (PI, 2023-2024) Funding to support speaker engagement for CubeFest 2024 Total: $9500
