@@ -8,6 +8,9 @@ title: Intent Modeling
 Projects exploring intent modeling via ML methods to support naturalistic interaction in XR.
 
 #### Towards gaze-based prediction of the intent to interact in virtual reality (ETRA 2021)
+
+![Intent Modeling Project1 Photo]({{root_url}}/assets/images/projects/intent-modeling-project1.png)
+
 Brendan David-John, Candace Peacock, Ting Zhang, T Scott Murdison, Hrvoje Benko, Tanya R Jonker
 In ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications
 
