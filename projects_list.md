@@ -9,3 +9,4 @@ layout: full_header
 - [Intent Modeling](./project_pages/intent_modeling)
 - [Securing XR for Healthcare](./project_pages/securing_xr)
 - [Deceptive Patterns in XR](./project_pages/deceptive_patterns)
+- [Securing Iris Biometrics](./project_pages/securing_iris)
