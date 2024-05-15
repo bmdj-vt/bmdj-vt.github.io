@@ -21,6 +21,16 @@ navbar_entries:
     url: listserv
 
 project_entries:
+  - title: Intent Modeling
+    url: /project_pages/intent_modeling
+    desc: Projects exploring intent modeling via ML methods to support naturalistic interaction in XR
+    highlight: NEW
+
+  - title: Securing Iris Biometrics
+    url: /project_pages/securing_iris
+    desc: Exploring the ability to spoof, secure, and optimize iris biometric authentication, with a focus on eye-tracking systems.
+    highlight: NEW
+
   - title: Privacy Guarantees for Eye-Tracking Datasets
     url: /project_pages/privacy_datasets
     desc: Formal privacy guarantees (k-anonymity, ε-Differential Privacy, k,γ-Plausible Deniability) for VR eye-tracking datasets
@@ -29,23 +39,13 @@ project_entries:
     url: /project_pages/bystander_privacy
     desc: Projects exploring bystander privacy issues, i.e, facial identity captured by visual camera data, in the context of wearable AR headsets
 
-  - title: Intent Modeling
-    url: /project_pages/intent_modeling
-    desc: Projects exploring intent modeling via ML methods to support naturalistic interaction in XR
-
   - title: Securing XR for Healthcare
     url: /project_pages/securing_xr
     desc: ICAT SEAD funded project exploring secure and trustworthy XR interactions for healthcare
-    highlight: NEW
 
   - title: Deceptive Patterns in XR
     url: /project_pages/deceptive_patterns
     desc: Explorations into manipulative and deceptive design patterns in XR
-    highlight: NEW
-
-  - title: Securing Iris Biometrics
-    url: /project_pages/securing_iris
-    desc: Exploring the ability to spoof, secure, and optimize iris biometric authentication, with a focus on eye-tracking systems.
 
 old_project_entries:
   - title: Soopr
