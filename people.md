@@ -37,12 +37,6 @@ Ph.D. Student\
 
 ![Portrait photo of Paul Maynard]({{root_url}}/assets/images/people/paul.jpg)
 
-Raghav Sethi\
-Masters Student\
-[Personal Webpage](https://rghv96.github.io/)
-
-![Portrait photo of Raghav Sethi]({{root_url}}/assets/images/people/raghav.jpg)
-
 Nick Gazzillo\
 Masters Student\
 [LinkedIn](https://www.linkedin.com/in/nickgazzillo/)
@@ -63,6 +57,24 @@ Masters Student\
 
 ## [Undergraduate Students](#undergrad)
 
+Nissi Otoo\
+Computer Engineering Student\
+[LinkedIn](https://www.linkedin.com/in/nissi-otoo/)
+
+![Portrait photo of Nissi Otoo]({{root_url}}/assets/images/people/nissi.jpeg)
+
+Kailon Blue\
+Computer Engineering Student\
+[LinkedIn](https://www.linkedin.com/in/kailon-blue-6209a2221/)
+
+![Portrait photo of Kailon Blue]({{root_url}}/assets/images/people/Kailon.jpeg)
+
+Evan (Molinares) Hess\
+Computer Engineering Student\
+[LinkedIn](https://www.linkedin.com/in/emcode25/)
+
+![Portrait photo of Evan Hess]({{root_url}}/assets/images/people/hess.jpeg)
+
 Ken Lin\
 CS Student\
 [LinkedIn](https://www.linkedin.com/in/lken/)
@@ -70,6 +82,12 @@ CS Student\
 ![Portrait photo of Ken Lin]({{root_url}}/assets/images/people/ken.png)
 
 ## [Alumni](#alumni)
+
+Raghav Sethi\
+Masters in CS '24, currently at Amazon Web Services(AWS)\
+[Personal Webpage](https://rghv96.github.io/)
+
+![Portrait photo of Raghav Sethi]({{root_url}}/assets/images/people/raghav.jpg)
 
 Sraavya Gudavalli\
 CS '23, HCI Minor\
