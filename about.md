@@ -3,6 +3,10 @@ layout: full_header
 title: About
 ---
 
+Dr. Brendan David-John is an Assistant Professor of Computer Science at Virginia Tech. David-John was the first Native male to graduate with a doctorate in Computer Science from the University of Florida in 2022, and received his BS and MS from the Rochester Institute of Technology in 2017. He is from Salamanca NY, which is located on the Allegany reservation of the Seneca Nation of Indians.
+ 
+His personal goals include increasing the representation of Native Americans in STEM and higher education, specifically in computing. He believes that accomplishing this goal comes from an introduction to STEM during secondary school, and immersion in research early during undergraduate studies.  He is a proud member of the American Indian Science & Engineering Society and has been a Sequoyah Fellow since 2013. His research interests include virtual reality and eye tracking, with a primary focus on privacy and security for the future of virtual and mixed reality.
+
 ## Principal Investigator
 
 
@@ -24,7 +28,6 @@ Office #3203\
 220 Gilbert Street\
 Blacksburg, VA 24060
 
-Personal Website: brendandavidjohn.app\
 [Google Scholar](https://scholar.google.com/citations?user=YFxRRDUAAAAJ&hl=en)\
 [ORCID](https://orcid.org/0000-0003-3292-1130)\
 [Erdős Number](https://www.csauthors.net/distance/brendan-david-john/paul-erdos): 4\
@@ -32,6 +35,8 @@ Personal Website: brendandavidjohn.app\
 
 
 ## Funding
+Virginia Tech 4-VA Collaborative Research Grant Proposal Program SP24 (co-PI, 2024) A new green space exposure index utilizing AI methods and an eye-tracking device Total: $30,000
+
 Student Engineers' Council (PI, 2023-2024) Funding to support speaker engagement for CubeFest 2024 Total: $9500
 
 VT Diverse Voices and Perspectives Lecture Series (PI, Fall 2023) Funding to support speaker Amelia Winger-Bearskin Total: $750
