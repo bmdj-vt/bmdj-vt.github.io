@@ -67,7 +67,7 @@ Kailon Blue\
 Computer Engineering Student\
 [LinkedIn](https://www.linkedin.com/in/kailon-blue-6209a2221/)
 
-![Portrait photo of Kailon Blue]({{root_url}}/assets/images/people/Kailon.jpeg)
+![Portrait photo of Kailon Blue]({{root_url}}/assets/images/people/kailon.jpeg)
 
 Evan (Molinares) Hess\
 Computer Engineering Student\
