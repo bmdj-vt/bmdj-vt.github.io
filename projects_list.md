@@ -10,3 +10,4 @@ layout: full_header
 - [Securing XR for Healthcare](./project_pages/securing_xr)
 - [Deceptive Patterns in XR](./project_pages/deceptive_patterns)
 - [Securing Iris Biometrics](./project_pages/securing_iris)
+- [Privacy Notice in XR](./project_pages/privacy_notice)

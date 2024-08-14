@@ -21,6 +21,11 @@ navbar_entries:
     url: listserv
 
 project_entries:
+  - title: Privacy Notice in XR
+    url: /project_pages/privacy_notice
+    desc: Projects exploring privacy notice and awareness for XR
+    highlight: NEW
+
   - title: Intent Modeling
     url: /project_pages/intent_modeling
     desc: Projects exploring intent modeling via ML methods to support naturalistic interaction in XR
