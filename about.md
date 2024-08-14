@@ -35,6 +35,8 @@ Blacksburg, VA 24060
 
 
 ## Funding
+DARPA Intrinsic Cognitive Security (co-PI, 2024-2027) Assessment and Optimization of Human Performance in Mixed Reality Attacks Total: $1,053,119, co-PI share: $491,148
+
 Virginia Tech 4-VA Collaborative Research Grant Proposal Program SP24 (co-PI, 2024) A new green space exposure index utilizing AI methods and an eye-tracking device Total: $30,000
 
 Student Engineers' Council (PI, 2023-2024) Funding to support speaker engagement for CubeFest 2024 Total: $9500
