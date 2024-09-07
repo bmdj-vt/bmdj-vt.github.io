@@ -85,7 +85,7 @@ Fernando Branco Moraes\
 CS Student\
 [LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
 
-![Portrait photo of Fernando Branco Moraes]({{root_url}}/assets/images/people/fernando.png)
+![Portrait photo of Fernando Branco Moraes]({{root_url}}/assets/images/people/fernando.jpg)
 
 ## [Alumni](#alumni)
 
