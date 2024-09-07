@@ -81,6 +81,12 @@ CS Student\
 
 ![Portrait photo of Ken Lin]({{root_url}}/assets/images/people/ken.png)
 
+Fernando Branco Moraes\
+CS Student\
+[LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
+
+![Portrait photo of Fernando Branco Moraes]({{root_url}}/assets/images/people/fernando.png)
+
 ## [Alumni](#alumni)
 
 Raghav Sethi\
