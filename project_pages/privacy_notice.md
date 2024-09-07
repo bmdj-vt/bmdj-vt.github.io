@@ -15,5 +15,6 @@ G. Nikki Ramirez, Pratheep Kumar Chelladurai, Alances Vargas, Ibrahim Bukhari, E
 To appear in the ISMAR 2024 Conference proceedings.
 
  <!-- - Awarded Runner-up for the Best Paper at the workshop -->
+ - [CODE](https://version.cs.vt.edu/privateeye/visceral-notices)
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/Visceral_Notices.pdf)
  - [Supplementary PDF (accepted version)]({{root_url}}/assets/pdfs/Visceral_Notices_Supplementary.pdf)
