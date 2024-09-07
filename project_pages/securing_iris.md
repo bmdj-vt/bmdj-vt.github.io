@@ -14,4 +14,4 @@ Exploring the ability to spoof, secure, and optimize iris biometric authenticati
 Anish S. Narkar, Brendan David-John 2024. In [ETRA '24 Short Papers: ACM Symposium on Eye Tracking Research and Applications](https://etra.acm.org/2024/).
 
  - [PDF (accepted version)](https://arxiv.org/pdf/2404.13827)
- - ACM DOI: To appear
+ - [ACM DOI](https://doi.org/10.1145/3649902.3653341)
