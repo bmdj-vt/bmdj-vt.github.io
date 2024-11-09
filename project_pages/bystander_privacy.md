@@ -24,3 +24,10 @@ Matthew Corbett, Brendan David-John, Jiacheng Shang, Y. Charlie Hu, Bo Ji. 2024.
 In IEEE Security & Privacy 2024.
 
  - [IEEE DOI](https://ieeexplore.ieee.org/document/10339660)
+
+ #### Understanding the long-term impact and perceptions of privacy-enhancing technologies for bystander obscuration in AR (ISMAR 2024)
+
+Brendan David-John, Bo Ji, Evan Selinger. 2024.\
+In ISMAR 2024 Adjunct Proceedings.
+
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/SafeAR_ISMAR_2024_camera_ready.pdf)
