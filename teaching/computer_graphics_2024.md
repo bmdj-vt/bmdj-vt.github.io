@@ -53,7 +53,7 @@ title: CS4204 Computer Graphics 2024
 
 ![]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.PNG)
 
-[Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.pdf)
+[Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.gif)
  
 ### Alpha Blending: Shuban Sridhar
 
