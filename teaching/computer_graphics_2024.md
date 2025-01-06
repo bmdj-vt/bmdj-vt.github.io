@@ -39,31 +39,31 @@ title: CS4204 Computer Graphics 2024
 
 ### Animation: Taijia Liang, Jiyuan Zhang
 
-![]({{root_url}}/assets/images/courses/cs4204_fall_2024/rubiks_cube.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/rubiks_cube.PNG)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/rubiks_cube.pdf)
  
 ### Stylized Rendering: Brock Palm
 
-![]({{root_url}}/assets/images/courses/cs4204_fall_2024/brock.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/brock.PNG)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/brock.pdf)
 
 ### Animation: Greg Wainer, Danny Spatz
 
-![]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.PNG)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.pdf)
  
 ### Alpha Blending: Shuban Sridhar
 
-![]({{root_url}}/assets/images/courses/cs4204_fall_2024/shuban.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/shuban.PNG)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/shuban.pdf)
 
 ### Anti-Aliasing: Samuel Spencer
 
-![]({{root_url}}/assets/images/courses/cs4204_fall_2024/spencer.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/spencer.PNG)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/spencer.pdf)
  
