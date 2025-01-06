@@ -5,10 +5,14 @@ title: Teaching
 
 ## Current Courses
 
-Spring 2024: CS6724: Privacy and Security in Mixed Reality
+Spring 2025: CS5754: Virtual Environments
 
 ## Past Courses
 
-[Spring 2023: CS5754: Virtual Environments]({{root_url}}/assets/pdfs/5754_syllabus.pdf)
+[Fall 2024: CS4204: Computer Graphics]({{root_url}}/teaching/computer_graphics_2024)
 
-[Fall 2023: CS4204: Computer Graphics]({{root_url}}/computer_graphics)
+Spring 2024: CS6724: Privacy and Security in Mixed Reality
+
+[Fall 2023: CS4204: Computer Graphics]({{root_url}}/teaching/computer_graphics_2023)
+
+[Spring 2023: CS5754: Virtual Environments]({{root_url}}/assets/pdfs/5754_syllabus.pdf)
