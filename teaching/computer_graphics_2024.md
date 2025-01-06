@@ -1,6 +1,6 @@
 ---
 layout: teaching_page
-title: CS4204 Computer Graphics
+title: CS4204 Computer Graphics 2024
 ---
 
 [Fall 2023: CS4204: Computer Graphics]({{root_url}}/assets/pdfs/4204_syllabus.pdf)
@@ -33,7 +33,7 @@ title: CS4204 Computer Graphics
  
 ### VR Rendering: Faye Nguyen
 
-![]({{root_url}}/assets/images/courses/faye.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/faye.png)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/faye.pdf)
 
@@ -45,7 +45,7 @@ title: CS4204 Computer Graphics
  
 ### Stylized Rendering: Brock Palm
 
-![]({{root_url}}/assets/images/courses/brock.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/brock.png)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/brock.pdf)
 
@@ -75,7 +75,7 @@ title: CS4204 Computer Graphics
 
 ### Textured Dreams: Nicholas Markle
 
-![]({{root_url}}/assets/images/courses/nicholas_textures.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/nicholas_textures.png)
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/nicholas_textures.pdf)
 
