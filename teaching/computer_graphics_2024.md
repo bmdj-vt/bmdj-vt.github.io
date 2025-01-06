@@ -51,9 +51,9 @@ title: CS4204 Computer Graphics 2024
 
 ### OpenGL Animation: Greg Wainer, Danny Spatz
 
-![]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.PNG)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.gif)
 
-[Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.gif)
+[Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.pdf)
  
 ### Alpha Blending: Shuban Sridhar
 
