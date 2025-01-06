@@ -9,27 +9,27 @@ title: CS4204 Computer Graphics
 
 ### Environment Mapping: Matthew Clifton
 
-![]({{root_url}}/assets/images/courses/environment_mapping.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2023/environment_mapping.png)
 
 ### Ray Tracing with OptiX: Ben Akhtar
 
-![]({{root_url}}/assets/images/courses/raytracing.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2023/raytracing.png)
  
 ### Stylized Rendering and Shadows: Robin Townsend, Zach Gaydos
 
-![]({{root_url}}/assets/images/courses/stylized_shadows.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2023/stylized_shadows.png)
  
 ### Normal and Bump Mapping: Nick Gazzillo, Aaron Gomez
 
-![]({{root_url}}/assets/images/courses/normal_bump_map.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2023/normal_bump_map.png)
  
 ### KD-Trees: Scott Spencer
 
-![]({{root_url}}/assets/images/courses/kd_trees.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2023/kd_trees.png)
  
 ### Texture Filtering: Alex Truxess
 
-![]({{root_url}}/assets/images/courses/texture_filtering.png)
+![]({{root_url}}/assets/images/courses/cs4204_fall_2023/texture_filtering.png)
  
 ### Animation Team #1: Allison Deaton, Ken Lin
 
