@@ -1,5 +1,5 @@
 ---
-layout: full_header
+layout: teaching_page
 title: CS4204 Computer Graphics
 ---
 
