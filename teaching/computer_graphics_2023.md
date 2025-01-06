@@ -1,6 +1,6 @@
 ---
 layout: teaching_page
-title: CS4204 Computer Graphics
+title: CS4204 Computer Graphics 2023
 ---
 
 [Fall 2023: CS4204: Computer Graphics]({{root_url}}/assets/pdfs/4204_syllabus.pdf)
