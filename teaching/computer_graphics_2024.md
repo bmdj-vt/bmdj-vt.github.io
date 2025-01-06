@@ -49,7 +49,7 @@ title: CS4204 Computer Graphics 2024
 
 [Slides]({{root_url}}/assets/images/courses/cs4204_fall_2024/brock.pdf)
 
-### Animation: Greg Wainer, Danny Spatz
+### OpenGL Animation: Greg Wainer, Danny Spatz
 
 ![]({{root_url}}/assets/images/courses/cs4204_fall_2024/danny_greg.PNG)
 
