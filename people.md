@@ -75,12 +75,6 @@ Computer Engineering Student\
 
 ![Portrait photo of Evan Hess]({{root_url}}/assets/images/people/hess.jpeg)
 
-Ken Lin\
-CS Student\
-[LinkedIn](https://www.linkedin.com/in/lken/)
-
-![Portrait photo of Ken Lin]({{root_url}}/assets/images/people/ken.png)
-
 Fernando Branco Moraes\
 CS Student\
 [LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
@@ -88,6 +82,12 @@ CS Student\
 ![Portrait photo of Fernando Branco Moraes]({{root_url}}/assets/images/people/fernando.jpg)
 
 ## [Alumni](#alumni)
+
+Ken Lin\
+CS Student\
+[LinkedIn](https://www.linkedin.com/in/lken/)
+
+![Portrait photo of Ken Lin]({{root_url}}/assets/images/people/ken.png)
 
 Raghav Sethi\
 Masters in CS '24, currently at Amazon Web Services(AWS)\
