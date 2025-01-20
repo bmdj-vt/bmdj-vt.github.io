@@ -15,7 +15,7 @@ Anish S. Narkar, Jan J. Michalak, Candace E. Peacock, Brendan David-John \
 In [ETRA '24: ACM Symposium on Eye Tracking Research and Applications](https://etra.acm.org/2024/).
 
 - [PDF](https://arxiv.org/pdf/2404.13829)
-- ACM DOI: To appear
+- [ACM DOI](https://doi.org/10.1145/3655600)
 
 #### Towards gaze-based prediction of the intent to interact in virtual reality (ETRA 2021)
 
