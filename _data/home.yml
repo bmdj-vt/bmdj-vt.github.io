@@ -29,17 +29,14 @@ project_entries:
   - title: Privacy Notice in XR
     url: /project_pages/privacy_notice
     desc: Projects exploring privacy notice and awareness for XR
-    highlight: NEW
 
   - title: Intent Modeling
     url: /project_pages/intent_modeling
     desc: Projects exploring intent modeling via ML methods to support naturalistic interaction in XR
-    highlight: NEW
 
   - title: Securing Iris Biometrics
     url: /project_pages/securing_iris
     desc: Exploring the ability to spoof, secure, and optimize iris biometric authentication, with a focus on eye-tracking systems.
-    highlight: NEW
 
   - title: Privacy Guarantees for Eye-Tracking Datasets
     url: /project_pages/privacy_datasets
