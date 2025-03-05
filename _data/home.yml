@@ -21,6 +21,11 @@ navbar_entries:
     url: listserv
 
 project_entries:
+  - title: XR Side Channels
+    url: /project_pages/xr_side_channels
+    desc: Projects exploring side channel attacks in XR
+    highlight: NEW
+
   - title: Privacy Notice in XR
     url: /project_pages/privacy_notice
     desc: Projects exploring privacy notice and awareness for XR
