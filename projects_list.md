@@ -4,6 +4,7 @@ layout: full_header
 
 ## Active Projects
 
+- [XR Side Channels](./project_pages/xr_side_channels)
 - [Privacy Guarantees for Eye-Tracking Datasets](./project_pages/privacy_datasets)
 - [AR Bystander Privacy](./project_pages/bystander_privacy)
 - [Intent Modeling](./project_pages/intent_modeling)
