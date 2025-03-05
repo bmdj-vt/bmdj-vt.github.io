@@ -49,6 +49,7 @@ project_entries:
   - title: Securing XR for Healthcare
     url: /project_pages/securing_xr
     desc: ICAT SEAD funded project exploring secure and trustworthy XR interactions for healthcare
+    highlight: NEW
 
   - title: Deceptive Patterns in XR
     url: /project_pages/deceptive_patterns
