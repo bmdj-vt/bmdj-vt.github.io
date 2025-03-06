@@ -9,13 +9,13 @@ Virtual and Augmented Reality (VR/AR) technology provides access to immersive 3D
 
 This project will investigate security vulnerabilities and novel threats in the form of side-channel attacks on foveated systems, which use gaze data to optimize VR/AR systems operating under compute and power constraints. The project team will create a testbed of standardized foveated rendering algorithms and VR attack surfaces and use it to evaluate the ability of malicious developers to integrate side-channel attacks that impact GPU usage and performance in a controlled manner. A set of attack algorithms will be applied to the performance metrics to reconstruct gaze positions and evaluate the ability to infer private information about a user. The dataset and methods will be made public to help inform VR platforms of existing security risks and advance the development of system-level defense mechanisms to detect and mitigate the risk of side-channel attacks on foveated VR systems. Finally, the scope of side-channel attacks will be broadened to include AR optimizations that are hardware-specific and not standardized like the foveated rendering pipelines of VR systems. The project will establish a standard benchmark for foveated side-channel attacks and provide defense mechanisms to protect eye-tracking data in VR/AR systems.
 
-This project is supported by the National Science Foundation (NSF) under Grants CNS-2350116 from 5/1/2025 to 4/30/2028.
+This project is supported by the National Science Foundation (NSF) under Grant [CNS-2350116](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2350116&HistoricalAwards=false) from 5/1/2025 to 4/30/2028.
 
 ## Personnel
 
 ### Principal Investigators
-- [Brendan David-John](https://bmdj-vt.github.io/about)(Virginia Tech)
-- [Bo Ji](https://people.cs.vt.edu/boji/) (Virginia Tech)
+- [Brendan David-John](https://bmdj-vt.github.io/about)(Virginia Tech, PI)
+- [Bo Ji](https://people.cs.vt.edu/boji/) (Virginia Tech, Co-PI)
 
 ### Students
 - Paul Maynard (Virginia Tech)
