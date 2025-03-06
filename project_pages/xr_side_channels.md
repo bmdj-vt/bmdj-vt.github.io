@@ -14,8 +14,8 @@ This project is supported by the National Science Foundation (NSF) under Grant [
 ## Personnel
 
 ### Principal Investigators
-- [Brendan David-John](https://bmdj-vt.github.io/about)(Virginia Tech, PI)
-- [Bo Ji](https://people.cs.vt.edu/boji/) (Virginia Tech, Co-PI)
+- PI: [Brendan David-John](https://bmdj-vt.github.io/about)(Virginia Tech)
+- Co-PI: [Bo Ji](https://people.cs.vt.edu/boji/) (Virginia Tech)
 
 ### Students
 - Paul Maynard (Virginia Tech)
