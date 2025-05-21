@@ -7,6 +7,8 @@ Dr. Brendan David-John is an Assistant Professor of Computer Science at Virginia
  
 His personal goals include increasing the representation of Native Americans in STEM and higher education, specifically in computing. He is a proud member of the American Indian Science & Engineering Society and has been a Sequoyah Fellow since 2013. His research interests include virtual reality and eye tracking, with a primary focus on privacy and security for the future of virtual and mixed reality. Dr. David-John regularly publishes within ACM ETRA, IEEE VR, IEEE ISMAR and was awarded the VGTC Best VR Dissertation Award in 2025. 
 
+[CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)\
+
 ## Principal Investigator
 
 
@@ -16,7 +18,6 @@ His personal goals include increasing the representation of Native Americans in 
 Brendan David-John\
 Assistant Professor, Computer Science, Virginia Tech
 
-[CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)\
 Ph.D: University of Florida 2022\
 MS: Rochester Institute of Technology 2017\
 BS: Rochester Institute of Technology 2017
@@ -35,6 +36,16 @@ Blacksburg, VA 24060
 
 
 ## Funding
+Virginia Tech Center for HCI Planning Grant (Co-PI, 2025-2026) Planning for AI-Augmented Human Decision-Making in Secure Space Operations: Building an Interdisciplinary Research Vision Total: $25,000
+
+NSF SaTC: CORE: Small (PI, 2025-2028) with Co-PI Bo Ji (VT) Securing Gaze Data from Side-Channel Attacks in Foveated Systems Total: $600,000, PI share: $300,000
+
+CCI 2025 AI for Cybersecurity / Cybersecurity for AI Research Program (PI, 2025) with Co-PIs Pinar Yanardag Delul (VT) and Emanuela Marasco (GMU) GenA(eye)ris: Generating Synthetic Iris Biometrics for Presentation Attack Security and Security for Generative Biometric Models Total: $100,000
+
+ICTAS EFO Opportunity Seed Investment Grant FY 25 (PI, 2023-2024) with Co-PI Donna Westfall-Rudd and Bryce Burrell Innovation In Virtual Storytelling for Indigenous Foodways (IVSIF) Total: $10,000
+
+CCI SW Virginia Node Cybersecurity Research Program FY 24 (PI, 2024-2025) with Co-PI Chris Thomas (VT) IrisSwap: A public research challenge on digital iris spoofing attacks Total: $37,500
+
 DARPA Intrinsic Cognitive Security (co-PI, 2024-2027) Assessment and Optimization of Human Performance in Mixed Reality Attacks Total: $1,053,119, co-PI share: $491,148
 
 Virginia Tech 4-VA Collaborative Research Grant Proposal Program SP24 (co-PI, 2024) A new green space exposure index utilizing AI methods and an eye-tracking device Total: $30,000
