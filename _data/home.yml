@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: about #describe lab, PI, contact info for me, etc. 
+  - title: PI Info/CV #describe lab, PI, contact info for me, etc. 
     url: about
 
   - title: people #list current members, past members 
