@@ -50,7 +50,7 @@ Masters Student\
 ![Portrait photo of Nick Gazzillo]({{root_url}}/assets/images/people/nick.jpg)
 
 Ben Ryan\
-Masters Student\
+Masters Student
 
 ## [Undergraduate Students](#undergrad)
 
