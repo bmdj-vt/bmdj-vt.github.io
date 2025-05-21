@@ -8,7 +8,7 @@ title: People
 
 Brendan David-John\
 [CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)\
-[Personal Webpage](https://brendandavidjohn.app)
+[Personal Webpage](https://bmdj-vt.github.io/about)
 
 ![Portrait photo of Brendan David-John]({{root_url}}/assets/images/people/brendan.jpg)
 
@@ -43,12 +43,6 @@ Masters Student\
 
 ![Portrait photo of Nick Gazzillo]({{root_url}}/assets/images/people/nick.jpg)
 
-Jan Michalak\
-Masters Student\
-[LinkedIn](https://www.linkedin.com/in/janjakubmichalak/)
-
-![Portrait photo of Jan Michalak]({{root_url}}/assets/images/people/jan.jpg)
-
 Maha Sajid\
 Masters Student\
 [LinkedIn](https://www.linkedin.com/in/maha-sajid-303844103/)
@@ -56,6 +50,22 @@ Masters Student\
 ![Portrait photo of Maha Sajid]({{root_url}}/assets/images/people/maha.jpg)
 
 ## [Undergraduate Students](#undergrad)
+
+Allie Craddock\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/allie-craddock/)
+
+Casie Peng\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/casiepeng/)
+
+Claire Shin\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/cshinh/)
+
+Jai Sundaram\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/jai-sundaram/)
 
 Nissi Otoo\
 Computer Engineering Student\
@@ -75,28 +85,30 @@ Computer Engineering Student\
 
 ![Portrait photo of Evan Hess]({{root_url}}/assets/images/people/hess.jpeg)
 
-Fernando Branco Moraes\
-CS Student\
-[LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
-
-![Portrait photo of Fernando Branco Moraes]({{root_url}}/assets/images/people/fernando.jpg)
 
 ## [Alumni](#alumni)
 
+Jan Michalak\
+CS Masters '25, currently at Edward Via College of Osteopathic Medicine (VCOM)\
+[LinkedIn](https://www.linkedin.com/in/janjakubmichalak/)
+
+![Portrait photo of Jan Michalak]({{root_url}}/assets/images/people/jan.jpg)
+
+Fernando Branco Moraes\
+CS '25\
+[LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
+
 Ken Lin\
-CS Student\
+CS '25'\
 [LinkedIn](https://www.linkedin.com/in/lken/)
 
-![Portrait photo of Ken Lin]({{root_url}}/assets/images/people/ken.png)
 
 Raghav Sethi\
 Masters in CS '24, currently at Amazon Web Services(AWS)\
 [Personal Webpage](https://rghv96.github.io/)
 
-![Portrait photo of Raghav Sethi]({{root_url}}/assets/images/people/raghav.jpg)
 
 Sraavya Gudavalli\
 CS '23, HCI Minor\
 [LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
 
-![Portrait photo of Sraavya Gudavalli]({{root_url}}/assets/images/people/sraavya.png)
