@@ -31,6 +31,12 @@ Ph.D. Student\
 
 ![Portrait photo of Syed Ibrahim Mustafa Shah B.]({{root_url}}/assets/images/people/ibrahim.jpg)
 
+Maha Sajid\
+Ph.D. Student\
+[LinkedIn](https://www.linkedin.com/in/maha-sajid-303844103/)
+
+![Portrait photo of Maha Sajid]({{root_url}}/assets/images/people/maha.jpg)
+
 Paul Maynard\
 Ph.D. Student\
 [LinkedIn](https://www.linkedin.com/in/paul-maynard-mayntech/)
@@ -43,11 +49,8 @@ Masters Student\
 
 ![Portrait photo of Nick Gazzillo]({{root_url}}/assets/images/people/nick.jpg)
 
-Maha Sajid\
+Ben Ryan\
 Masters Student\
-[LinkedIn](https://www.linkedin.com/in/maha-sajid-303844103/)
-
-![Portrait photo of Maha Sajid]({{root_url}}/assets/images/people/maha.jpg)
 
 ## [Undergraduate Students](#undergrad)
 

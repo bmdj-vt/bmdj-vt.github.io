@@ -1,13 +1,13 @@
 ---
 layout: full_header
-title: PI Info
+title: PI Bio
 ---
 
 Dr. Brendan David-John is an Assistant Professor of Computer Science at Virginia Tech. David-John was the first Native male to graduate with a doctorate in Computer Science from the University of Florida in 2022, and received his BS and MS from the Rochester Institute of Technology in 2017. He is from Salamanca NY, which is located on the Allegany reservation of the Seneca Nation of Indians.
  
 His personal goals include increasing the representation of Native Americans in STEM and higher education, specifically in computing. He is a proud member of the American Indian Science & Engineering Society and has been a Sequoyah Fellow since 2013. His research interests include virtual reality and eye tracking, with a primary focus on privacy and security for the future of virtual and mixed reality. Dr. David-John regularly publishes within ACM ETRA, IEEE VR, IEEE ISMAR and was awarded the VGTC Best VR Dissertation Award in 2025. 
 
-[CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)\
+[CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)
 
 ## Principal Investigator
 
