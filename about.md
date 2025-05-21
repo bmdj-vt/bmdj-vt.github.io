@@ -2,7 +2,7 @@
 layout: full_header
 title: PI Bio
 ---
-[CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)
+## [CV](https://drive.google.com/file/d/1-3QynyXl3AW0Uu572uswKD6y4qpmmSjR/view?usp=sharing)
 
 Dr. Brendan David-John is an Assistant Professor of Computer Science at Virginia Tech. David-John was the first Native male to graduate with a doctorate in Computer Science from the University of Florida in 2022, and received his BS and MS from the Rochester Institute of Technology in 2017. He is from Salamanca NY, which is located on the Allegany reservation of the Seneca Nation of Indians.
  
