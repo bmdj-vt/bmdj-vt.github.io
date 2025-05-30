@@ -37,6 +37,10 @@ Blacksburg, VA 24060
 
 
 ## Funding
+CCI SW Virginia Node Innovation: Ideation to Commercialization FY26 (co-PI, 2025-2026)
+Securing Eye-Tracking Data from Side-Channel Attacks in Virtual Reality Systems
+Total: $50,000
+
 Virginia Tech Center for HCI Planning Grant (Co-PI, 2025-2026) Planning for AI-Augmented Human Decision-Making in Secure Space Operations: Building an Interdisciplinary Research Vision Total: $25,000
 
 NSF SaTC: CORE: Small (PI, 2025-2028) with Co-PI Bo Ji (VT) Securing Gaze Data from Side-Channel Attacks in Foveated Systems Total: $600,000, PI share: $300,000
@@ -77,7 +81,7 @@ Total: $15,000
 
 CCI SW Virginia Node Innovation: Ideation to Commercialization FY23 (co-PI, 2023-2024)
 Protecting Bystander Visual Data Privacy in Augmented Reality Systems
-Total: $50,000, co-PI share: $6,007
+Total: $50,000
 
 Meta Research Gift (co-PI, 2022-2023)
 Enhancing Privacy Notices: Visceral Interfaces for Eye Tracking in VR

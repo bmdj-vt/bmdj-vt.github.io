@@ -5,9 +5,9 @@ title: Teaching
 
 ## Current Courses
 
-Spring 2025: CS5754: Virtual Environments
-
 ## Past Courses
+
+Spring 2025: CS5754: Virtual Environments
 
 [Fall 2024: CS4204: Computer Graphics]({{root_url}}/teaching/computer_graphics_2024)
 
