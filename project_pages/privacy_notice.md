@@ -16,3 +16,15 @@ G. Nikki Ramirez, Pratheep Kumar Chelladurai, Alances Vargas, Ibrahim Bukhari, E
  - [CODE](https://version.cs.vt.edu/privateeye/visceral-notices)
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/Visceral_Notices.pdf)
  - [Supplementary PDF (accepted version)]({{root_url}}/assets/pdfs/Visceral_Notices_Supplementary.pdf)
+
+#### Visceral Notices and Privacy Mechanisms for Eye Tracking in Augmented Reality (ISMAR 2025)
+
+![Visceral Notices Photo]({{root_url}}/assets/images/projects/ar_visceral_notices.png)
+
+Nissi Otoo, Kailon Blue, G. Nikki Ramirez, Evan Selinger, Shaun Foster, Brendan David-John. 2025. Visceral Notices and Privacy Mechanisms for Eye Tracking in Augmented Reality. To Appear at 2025 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), TVCG journal track
+
+ - [CODE (to appear)]()
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices.pdf)
+ - [Supplementary PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Supplementary.pdf)
+ - [Supplementary Video]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Video.mp4)
+ - [Experimental Materials Video]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Material_Video.mp4)
