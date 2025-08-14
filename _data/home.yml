@@ -21,14 +21,19 @@ navbar_entries:
     url: listserv
 
 project_entries:
+- title: Modeling Learning Engagement
+    url: /project_pages/modeling_learning_engagement
+    desc: Modeling engagement in XR environments using gaze data
+    highlight: NEW
+
   - title: XR Side Channels
     url: /project_pages/xr_side_channels
     desc: Projects exploring side channel attacks in XR
-    highlight: NEW
 
   - title: Privacy Notice in XR
     url: /project_pages/privacy_notice
     desc: Projects exploring privacy notice and awareness for XR
+    highlight: NEW
 
   - title: Intent Modeling
     url: /project_pages/intent_modeling
@@ -49,7 +54,6 @@ project_entries:
   - title: Securing XR for Healthcare
     url: /project_pages/securing_xr
     desc: ICAT SEAD funded project exploring secure and trustworthy XR interactions for healthcare
-    highlight: NEW
 
   - title: Deceptive Patterns in XR
     url: /project_pages/deceptive_patterns
