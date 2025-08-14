@@ -21,7 +21,7 @@ navbar_entries:
     url: listserv
 
 project_entries:
-- title: Modeling Learning Engagement
+  - title: Modeling Learning Engagement
     url: /project_pages/modeling_learning_engagement
     desc: Modeling engagement in XR environments using gaze data
     highlight: NEW
