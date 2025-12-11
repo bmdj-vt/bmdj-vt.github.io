@@ -106,7 +106,7 @@ Computer Engineering Student\
 ![Portrait photo of Nissi Otoo]({{root_url}}/assets/images/people/nissi.jpeg)
 
 Kailon Blue\
-Computer Engineering Student\
+Mathematics Student\
 [LinkedIn](https://www.linkedin.com/in/kailon-blue-6209a2221/)
 
 ![Portrait photo of Kailon Blue]({{root_url}}/assets/images/people/kailon.jpeg)
