@@ -124,8 +124,6 @@ Jan Michalak\
 CS Masters '25, currently at Edward Via College of Osteopathic Medicine (VCOM)\
 [LinkedIn](https://www.linkedin.com/in/janjakubmichalak/)
 
-![Portrait photo of Jan Michalak]({{root_url}}/assets/images/people/jan.jpg)
-
 Fernando Branco Moraes\
 CS '25, currently at AccuKnox\
 [LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
