@@ -43,16 +43,45 @@ Ph.D. Student\
 
 ![Portrait photo of Paul Maynard]({{root_url}}/assets/images/people/paul.jpg)
 
+Andrew Jones\
+Ph.D. Student\
+[LinkedIn](https://www.linkedin.com/in/andrew-jones-499360227/)
+
+![Portrait photo of Andrew Jones]({{root_url}}/assets/images/people/andrew.jpg)
+
+Haris Amjad
+Ph.D. Student\
+[LinkedIn](https://www.linkedin.com/in/haris-amjad/)
+
+![Portrait photo of Haris Amjad]({{root_url}}/assets/images/people/haris.jpg)
+
+Miguel Lopez
+Masters Student\
+[LinkedIn](https://www.linkedin.com/in/miguel-lopez-b17199298/)
+
+![Portrait photo of Miguel Lopez]({{root_url}}/assets/images/people/miguel.jpg)
+
 Nick Gazzillo\
 Masters Student\
 [LinkedIn](https://www.linkedin.com/in/nickgazzillo/)
 
 ![Portrait photo of Nick Gazzillo]({{root_url}}/assets/images/people/nick.jpg)
 
-Ben Ryan\
-Masters Student
 
-## [Undergraduate Students](#undergrad)
+
+## [Current & Former Undergraduate Students](#undergrad)
+
+Gayatri Kamtala\
+Computer Science Student
+[LinkedIn](https://www.linkedin.com/in/gayatri-kamtala-ab0582309/)
+
+Kim Giordano\
+Computer Science Student
+[LinkedIn](https://www.linkedin.com/in/kim-giordano/)
+
+Ben Ryan\
+Computer Science Student
+[LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
 
 Allie Craddock\
 Computer Science Student\
@@ -82,11 +111,11 @@ Computer Engineering Student\
 
 ![Portrait photo of Kailon Blue]({{root_url}}/assets/images/people/kailon.jpeg)
 
-Evan (Molinares) Hess\
+Camila (Molinares) Hess\
 Computer Engineering Student\
 [LinkedIn](https://www.linkedin.com/in/emcode25/)
 
-![Portrait photo of Evan Hess]({{root_url}}/assets/images/people/hess.jpeg)
+![Portrait photo of Camila Hess]({{root_url}}/assets/images/people/hess.jpeg)
 
 
 ## [Alumni](#alumni)
@@ -98,20 +127,20 @@ CS Masters '25, currently at Edward Via College of Osteopathic Medicine (VCOM)\
 ![Portrait photo of Jan Michalak]({{root_url}}/assets/images/people/jan.jpg)
 
 Fernando Branco Moraes\
-CS '25\
+CS '25, currently at AccuKnox\
 [LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
 
 Ken Lin\
-CS '25'\
+CS '25, currently at CACI\
 [LinkedIn](https://www.linkedin.com/in/lken/)
 
 
 Raghav Sethi\
-Masters in CS '24, currently at Amazon Web Services(AWS)\
+Masters in CS '24, currently at Amazon Web Services (AWS)\
 [Personal Webpage](https://rghv96.github.io/)
 
 
 Sraavya Gudavalli\
-CS '23, HCI Minor\
+CS '23, HCI Minor, currently at Comerica Bank\
 [LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
 
