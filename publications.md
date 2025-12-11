@@ -3,7 +3,9 @@ layout: full_header
 title: Publications 
 ---
 
-Courtesy of [csauthors.net](https://www.csauthors.net/brendan-david-john/)
+Up to date publications and research outputs can be found on Dr. David-John's [Google Scholar page](https://scholar.google.com/citations?user=YFxRRDUAAAAJ&hl=en&oi=ao)
+
+Below is courtesy of [csauthors.net](https://www.csauthors.net/brendan-david-john/)
 
 <!-- This div is a placeholder which will contain the publications -->
 <div id="pubszone">
