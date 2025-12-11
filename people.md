@@ -72,15 +72,15 @@ Masters Student\
 ## [Current & Former Undergraduate Students](#undergrad)
 
 Gayatri Kamtala\
-Computer Science Student
+Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/gayatri-kamtala-ab0582309/)
 
 Kim Giordano\
-Computer Science Student
+Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/kim-giordano/)
 
 Ben Ryan\
-Computer Science Student
+Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
 
 Allie Craddock\
