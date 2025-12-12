@@ -103,19 +103,13 @@ Nissi Otoo\
 Computer Engineering Student\
 [LinkedIn](https://www.linkedin.com/in/nissi-otoo/)
 
-![Portrait photo of Nissi Otoo]({{root_url}}/assets/images/people/nissi.jpeg)
-
 Kailon Blue\
 Mathematics Student\
 [LinkedIn](https://www.linkedin.com/in/kailon-blue-6209a2221/)
 
-![Portrait photo of Kailon Blue]({{root_url}}/assets/images/people/kailon.jpeg)
-
 Camila Molinares\
 Computer Engineering Student\
 [LinkedIn](https://www.linkedin.com/in/emcode25/)
-
-![Portrait photo of Camila Molinares]({{root_url}}/assets/images/people/camila.jpeg)
 
 
 ## [Alumni](#alumni)
