@@ -111,11 +111,11 @@ Mathematics Student\
 
 ![Portrait photo of Kailon Blue]({{root_url}}/assets/images/people/kailon.jpeg)
 
-Camila (Molinares) Hess\
+Camila Molinares\
 Computer Engineering Student\
 [LinkedIn](https://www.linkedin.com/in/emcode25/)
 
-![Portrait photo of Camila Hess]({{root_url}}/assets/images/people/hess.jpeg)
+![Portrait photo of Camila Molinares]({{root_url}}/assets/images/people/camila.jpeg)
 
 
 ## [Alumni](#alumni)
