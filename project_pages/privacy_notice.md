@@ -21,7 +21,9 @@ G. Nikki Ramirez, Pratheep Kumar Chelladurai, Alances Vargas, Ibrahim Bukhari, E
 
 ![Visceral Notices Photo]({{root_url}}/assets/images/projects/ar_visceral_notices.png)
 
-Nissi Otoo, Kailon Blue, G. Nikki Ramirez, Evan Selinger, Shaun Foster, Brendan David-John. 2025. Visceral Notices and Privacy Mechanisms for Eye Tracking in Augmented Reality. To Appear at 2025 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), TVCG journal track
+Nissi Otoo, Kailon Blue, G. Nikki Ramirez, Evan Selinger, Shaun Foster, Brendan David-John. 2025. Visceral Notices and Privacy Mechanisms for Eye Tracking in Augmented Reality.  2025 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), TVCG journal track. Honorable mention for best paper (top 3% of all submissions).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1kVvvDvyj5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
  - [CODE (to appear)]()
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices.pdf)
