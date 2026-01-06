@@ -14,10 +14,10 @@ Brendan David-John\
 
 ## [Graduate Students](#grad)
 
-Gabriella 'Nikki' Ramirez-Saffy\
+Gabriella 'Nikki' Ramirez\
 Ph.D. Student
 
-![Portrait photo of Nikki Ramirez-Saffy]({{root_url}}/assets/images/people/nikki.jpg)
+![Portrait photo of Nikki Ramirez]({{root_url}}/assets/images/people/nikki.jpg)
 
 Anish Narkar\
 Ph.D. Student\
@@ -79,10 +79,6 @@ Kim Giordano\
 Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/kim-giordano/)
 
-Ben Ryan\
-Computer Science Student\
-[LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
-
 Allie Craddock\
 Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/allie-craddock/)
@@ -131,8 +127,10 @@ Raghav Sethi\
 Masters in CS '24, currently at Amazon Web Services (AWS)\
 [Personal Webpage](https://rghv96.github.io/)
 
-
 Sraavya Gudavalli\
 CS '23, HCI Minor, currently at Comerica Bank\
 [LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
 
+Ben Ryan\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
