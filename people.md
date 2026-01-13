@@ -116,30 +116,30 @@ Old Dominion University\
 
 ## [Alumni](#alumni)
 
+Ben Ryan\
+Undergrad CS '25\
+[LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
+
 Jan Michalak\
 CS Masters '25, currently at Edward Via College of Osteopathic Medicine (VCOM)\
 [LinkedIn](https://www.linkedin.com/in/janjakubmichalak/)
 
 Fernando Branco Moraes\
-CS '25, currently at AccuKnox\
+Undergrad CS '25, currently at AccuKnox\
 [LinkedIn](https://www.linkedin.com/in/fernando-branco-moraes/)
 
 Ken Lin\
-CS '25, currently at CACI\
+BS/MEng CS '25, currently at CACI\
 [LinkedIn](https://www.linkedin.com/in/lken/)
 
 Raghav Sethi\
 Masters in CS '24, currently at Amazon Web Services (AWS)\
 [Personal Webpage](https://rghv96.github.io/)
 
-Sraavya Gudavalli\
-CS '23, HCI Minor, currently at Comerica Bank\
-[LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
-
 Colin Roberts\
-Pyschology '24, currently MS at UMD College Park
+Undergrad Pyschology '24, currently MS at UMD College Park
 [LinkedIn](https://www.linkedin.com/in/colinrobertsprofessinal/)
 
-Ben Ryan\
-CS '25\
-[LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
+Sraavya Gudavalli\
+Undergrad CS '23, HCI Minor, currently at Comerica Bank\
+[LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
