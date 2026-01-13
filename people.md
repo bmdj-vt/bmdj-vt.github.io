@@ -56,7 +56,7 @@ Ph.D. Student\
 ![Portrait photo of Haris Amjad]({{root_url}}/assets/images/people/haris.jpg)
 
 Miguel Lopez
-Masters Student\
+Ph.D. Student\
 [LinkedIn](https://www.linkedin.com/in/miguel-lopez-b17199298/)
 
 ![Portrait photo of Miguel Lopez]({{root_url}}/assets/images/people/miguel.jpg)
@@ -113,6 +113,7 @@ Computer Science Student\
 
 Michael Allen\
 Old Dominion University
+
 ## [Alumni](#alumni)
 
 Ben Ryan\
