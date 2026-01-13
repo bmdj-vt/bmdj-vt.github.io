@@ -112,8 +112,7 @@ Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/markelmanson/)
 
 Michael Allen\
-Old Dominion Universitya
-
+Old Dominion University
 ## [Alumni](#alumni)
 
 Ben Ryan\
