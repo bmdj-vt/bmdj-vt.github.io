@@ -112,7 +112,7 @@ Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/markelmanson/)
 
 Michael Allen\
-Old Dominion University
+Old Dominion Universitya
 
 ## [Alumni](#alumni)
 
