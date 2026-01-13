@@ -141,5 +141,5 @@ Pyschology '24, currently MS at UMD College Park
 [LinkedIn](https://www.linkedin.com/in/colinrobertsprofessinal/)
 
 Ben Ryan\
-Computer Science Student\
+CS '25\
 [LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
