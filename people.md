@@ -107,6 +107,12 @@ Camila Molinares\
 Computer Engineering Student\
 [LinkedIn](https://www.linkedin.com/in/emcode25/)
 
+Markel Manson\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/markelmanson/)
+
+Michael Allen\
+Old Dominion University\
 
 ## [Alumni](#alumni)
 
@@ -122,7 +128,6 @@ Ken Lin\
 CS '25, currently at CACI\
 [LinkedIn](https://www.linkedin.com/in/lken/)
 
-
 Raghav Sethi\
 Masters in CS '24, currently at Amazon Web Services (AWS)\
 [Personal Webpage](https://rghv96.github.io/)
@@ -130,6 +135,10 @@ Masters in CS '24, currently at Amazon Web Services (AWS)\
 Sraavya Gudavalli\
 CS '23, HCI Minor, currently at Comerica Bank\
 [LinkedIn](https://www.linkedin.com/in/sraavya-gudavalli-a690a9215/)
+
+Colin Roberts\
+Pyschology '24, currently MS at UMD College Park
+[LinkedIn](https://www.linkedin.com/in/colinrobertsprofessinal/)
 
 Ben Ryan\
 Computer Science Student\
