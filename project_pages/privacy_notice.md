@@ -25,7 +25,7 @@ Nissi Otoo, Kailon Blue, G. Nikki Ramirez, Evan Selinger, Shaun Foster, Brendan 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1kVvvDvyj5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
- - [CODE (to appear)]()
+ - [CODE](https://version.cs.vt.edu/privateeye/ar-visceral-notices)
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices.pdf)
  - [Supplementary PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Supplementary.pdf)
  - [Supplementary Video]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Video.mp4)
