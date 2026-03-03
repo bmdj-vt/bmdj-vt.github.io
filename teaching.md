@@ -3,7 +3,13 @@ layout: full_header
 title: Teaching
 ---
 
+## Workshops
+
+[CVPR 2026: GenXR-ID]({{root_url}}/workshops/cvpr_2026) 
+
 ## Current Courses
+
+Spring 2026: CS6724: XR Privacy and Security
 
 ## Past Courses
 
