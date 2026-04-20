@@ -19,9 +19,18 @@ This project is supported by the National Science Foundation (NSF) under Grant [
 
 ### Students
 - Paul Maynard (Virginia Tech)
-- Evan (Molinares) Hess (Virginia Tech)
+- Camila (Molinares) Hess (Virginia Tech)
 - Haris Amjad (Virginia Tech)
 
 ## Publications
+#### EyeSpy: Inferring Eye Gaze via Side-Channel Attacks Against Foveated Rendering (IEEE S&P 2026)
+
+![EyeSpy Photo]({{root_url}}/assets/images/projects/EyeSpyAttack.png)
+
+Paul Maynard, Harris Amjad, Camila Molinares, Bo Ji, Brendan David-John. 2026. EyeSpy: Inferring Eye Gaze via Side-Channel Attacks Against Foveated Rendering. Accepted 47th IEEE Symposium on Security and Privacy (IEEE S&P)
+
+ - [CODE](https://version.cs.vt.edu/privateeye/eyespy)
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/sp2026_EyeSpy_Paper.pdf)
+ - [Poster]({{root_url}}/assets/pdfs/sp2026_EyeSpy_Poster.pdf)
 
 ## Broader Impacts
