@@ -71,6 +71,14 @@ Masters Student\
 
 ## [Current & Former Undergraduate Students](#undergrad)
 
+Newton Ma\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/newtonma7/)
+
+Timothy Pactwa\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/timpactwa/)
+
 Gayatri Kamtala\
 Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/gayatri-kamtala-ab0582309/)
@@ -117,7 +125,7 @@ Old Dominion University
 ## [Alumni](#alumni)
 
 Ben Ryan\
-Undergrad CS '25\
+Undergrad CS '25\, currently at The College Board
 [LinkedIn](https://www.linkedin.com/in/benjamin-ryan-in/)
 
 Jan Michalak\
