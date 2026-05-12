@@ -34,16 +34,18 @@ GenXR-ID aims to catalyze interdisciplinary research at the intersection of comp
 | Time | Session | Details |
 |---|---|---|
 | 8:00–8:15 AM | Opening Remarks | Welcome, goals, logistics |
-| 8:15–8:50 AM | Keynote #1 | *State of the Art in XR Eye-based Biometrics* — **Dillon Lohr** |
-| 8:50–9:30 AM | Paper Session | spotlight paper talks + Q&A |
-| 9:30–9:45 AM | Coffee Break & Networking | Informal networking and refreshments |
-| 9:45–10:20 AM | Keynote #2 | *The impacts of Generative AI on Iris Biometrics and Liveness Detection* — **Adam Czajka** |
-| 10:20–10:50 AM | Paper Session | lightning paper talks + Q&A |
-| 10:50–11:10 AM | Coffee Break & Networking | Informal networking and refreshments |
-| 11:15–11:45 AM | Panel Discussion | *Generative Opportunities & Challenges for Identity, Privacy, and Security in XR Systems* with Banerjee, Gorlatova, Ahuja, Miller |
-| 11:45–12:00 PM | Closing Discussion | Summary, next steps |
+| 8:15–8:55 AM | Invited Keynote + Q&A | *True Lies: The Dual Nature of Synthetic Biometric Data* — **Adam Czajka** (30 mins talk, 10 mins Q & A) |
+| 8:55–9:00 AM | Short Break | Authors set up for talks 
+| 9:00-10:00 AM | Paper Session | 2 Archival + 1 Non-Archival paper talks + Q&A |
+| 10:00–10:30 AM | Coffee Break & Networking | Informal networking and refreshments |
+|10:30–11:00 AM | Invited Talk #2 | *State of the Art in XR Eye-based Biometrics* — **Dillon Lohr** (20-25 mins talk, 5-10 mins Q & A)|
+| 11:00–11:30 AM | Invited Talk #3 | *xxx* — **Sean Banerjee** (20-25 mins talk, 5-10 mins Q & A)|
+| 11:30–11:40 AM | Short Break | 
+| 11:40–12:10 PM | Invited Talk #4 | *xxx* — **Karan Ahuja** (20-25 mins talk, 5-10 mins Q & A)|
+| 12:10–12:40 PM | Invited Talk #5 | *xxx* — **Mark Roman Miller** (20-25 mins talk, 5-10 mins Q & A)|
+| 12:40– 12:55 PM | Dataset Discussion & Closing | Dataset Summary, Next steps  |
 
-## Papers Program citeturn1search2
+## Papers Program 
 **Tracks**  
 - **Archival:** 8-page CVPR format (in proceedings).  
 - **Non-archival:** Up to 4 pages (excl. references).
