@@ -71,6 +71,10 @@ Masters Student\
 
 ## [Current & Former Undergraduate Students](#undergrad)
 
+Kayin Buckley\
+ISE Student\
+[LinkedIn](https://www.linkedin.com/in/kayin-buckley/)
+
 Newton Ma\
 Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/newtonma7/)
