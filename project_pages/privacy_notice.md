@@ -30,3 +30,9 @@ Nissi Otoo, Kailon Blue, G. Nikki Ramirez, Evan Selinger, Shaun Foster, Brendan 
  - [Supplementary PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Supplementary.pdf)
  - [Supplementary Video]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Video.mp4)
  - [Experimental Materials Video]({{root_url}}/assets/pdfs/AR_Visceral_Notices_Material_Video.mp4)
+
+ #### Visceral Notices: Rethinking Consent for Passive Sensing in Augmented Reality (Workshop Paper at ACM CHI 2026)
+
+Nissi Otoo, G. Nikki Ramirez, Evan Selinger, Shaun Foster, Brendan David-John. 2026. At the Moving Beyond Clicks: Rethinking Consent and User Control in the Age of AI Workshop at ACM CHI 2026 (https://chi26clicks.wseymour.co.uk/).
+
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices.pdf)
