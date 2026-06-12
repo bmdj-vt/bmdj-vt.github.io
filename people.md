@@ -70,6 +70,8 @@ Masters Student\
 
 
 ## [Current & Former Undergraduate Students](#undergrad)
+Amulya Chinnala\
+CS Student
 
 Kayin Buckley\
 ISE Student\
