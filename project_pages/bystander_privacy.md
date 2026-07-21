@@ -31,3 +31,12 @@ Brendan David-John, Bo Ji, Evan Selinger. 2024.\
 In ISMAR 2024 Adjunct Proceedings.
 
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/SafeAR_ISMAR_2024_camera_ready.pdf)
+
+#### EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR (PoPETS 2026.4)
+
+Syed Ibrahim Mustafa Shah Bukhari, Matthew Corbett, Bo Ji, Brendan David-John. 2026.\
+In Proceedings on Privacy Enhancing Technologies 2026, Issue 4.
+
+ - [PoPETS DOI](https://petsymposium.org/popets/2026/popets-2026-0153.php)
+ - [PDF](https://petsymposium.org/popets/2026/popets-2026-0153.pdf)
+ - [Artifact/Codebase](https://github.com/SIMSB-99/EvaluatAR/tree/8663580155115113e95e94e2e854855f02c7b4a2)
