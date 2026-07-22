@@ -33,9 +33,10 @@ In ISMAR 2024 Adjunct Proceedings.
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/SafeAR_ISMAR_2024_camera_ready.pdf)
 
 #### EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR (PoPETS 2026.4)
+<iframe width="560" height="315" src="https://youtube.com/embed/pggUk6OAchM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Syed Ibrahim Mustafa Shah Bukhari, Matthew Corbett, Bo Ji, Brendan David-John. 2026.\
-In Proceedings on Privacy Enhancing Technologies 2026, Issue 4.
+In Proceedings on Privacy Enhancing Technologies 2026, Issue 4. 
 
  - [PoPETS DOI](https://petsymposium.org/popets/2026/popets-2026-0153.php)
  - [PDF](https://petsymposium.org/popets/2026/popets-2026-0153.pdf)
