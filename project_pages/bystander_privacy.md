@@ -7,16 +7,15 @@ title: AR Bystander Privacy
 
 Projects exploring bystander privacy issues, i.e, facial identity captured by visual camera data, in the context of wearable AR headsets.
 
+#### EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR (PoPETS 2026.4)
+<iframe width="560" height="315" src="https://youtube.com/embed/pggUk6OAchM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### BystandAR: Protecting Bystander Visual Data in Augmented Reality Systems (ACM MobiSys 2023)
-<iframe width="560" height="315" src="https://youtube.com/embed/VOdCPqdzPjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Syed Ibrahim Mustafa Shah Bukhari, Matthew Corbett, Bo Ji, Brendan David-John. 2026.\
+In Proceedings on Privacy Enhancing Technologies 2026, Issue 4. 
 
-Matthew Corbett, Brendan David-John, Jiacheng Shang, Y. Charlie Hu, Bo Ji. 2023.\
-In 21st ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys) 2023.
-
- - [Teaser Video](https://youtu.be/VOdCPqdzPjE)
- - [PDF (accepted version)]({{root_url}}/assets/pdfs/mobisys23_accepted_version.pdf)
- - [ACM DOI](https://dl.acm.org/doi/abs/10.1145/3581791.3596830)
+ - [PoPETS DOI](https://petsymposium.org/popets/2026/popets-2026-0153.php)
+ - [PDF](https://petsymposium.org/popets/2026/popets-2026-0153.pdf)
+ - [Artifact/Codebase](https://github.com/SIMSB-99/EvaluatAR/tree/8663580155115113e95e94e2e854855f02c7b4a2)
 
 #### Securing Bystander Privacy in Mixed Reality While Protecting the User Experience (IEEE Security & Privacy 2024)
 
@@ -32,12 +31,12 @@ In ISMAR 2024 Adjunct Proceedings.
 
  - [PDF (accepted version)]({{root_url}}/assets/pdfs/SafeAR_ISMAR_2024_camera_ready.pdf)
 
-#### EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR (PoPETS 2026.4)
-<iframe width="560" height="315" src="https://youtube.com/embed/pggUk6OAchM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#### BystandAR: Protecting Bystander Visual Data in Augmented Reality Systems (ACM MobiSys 2023)
+<iframe width="560" height="315" src="https://youtube.com/embed/VOdCPqdzPjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Syed Ibrahim Mustafa Shah Bukhari, Matthew Corbett, Bo Ji, Brendan David-John. 2026.\
-In Proceedings on Privacy Enhancing Technologies 2026, Issue 4. 
+Matthew Corbett, Brendan David-John, Jiacheng Shang, Y. Charlie Hu, Bo Ji. 2023.\
+In 21st ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys) 2023.
 
- - [PoPETS DOI](https://petsymposium.org/popets/2026/popets-2026-0153.php)
- - [PDF](https://petsymposium.org/popets/2026/popets-2026-0153.pdf)
- - [Artifact/Codebase](https://github.com/SIMSB-99/EvaluatAR/tree/8663580155115113e95e94e2e854855f02c7b4a2)
+ - [Teaser Video](https://youtu.be/VOdCPqdzPjE)
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/mobisys23_accepted_version.pdf)
+ - [ACM DOI](https://dl.acm.org/doi/abs/10.1145/3581791.3596830)
