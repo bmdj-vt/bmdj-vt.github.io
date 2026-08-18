@@ -8,7 +8,7 @@ title: AR Bystander Privacy
 Projects exploring bystander privacy issues, i.e, facial identity captured by visual camera data, in the context of wearable AR headsets.
 
 #### EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR (PoPETS 2026.4)
-<iframe width="560" height="315" src="https://youtube.com/embed/pggUk6OAchM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/OlKX5NbtZ30" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Syed Ibrahim Mustafa Shah Bukhari, Matthew Corbett, Bo Ji, Brendan David-John. 2026.\
 In Proceedings on Privacy Enhancing Technologies 2026, Issue 4. 
