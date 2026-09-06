@@ -67,7 +67,9 @@ Masters Student\
 
 ![Portrait photo of Nick Gazzillo]({{root_url}}/assets/images/people/nick.jpg)
 
-
+Camila Molinares\
+Masters Student\
+[LinkedIn](https://www.linkedin.com/in/emcode25/)
 
 ## [Current & Former Undergraduate Students](#undergrad)
 Amulya Chinnala\
@@ -117,13 +119,17 @@ Kailon Blue\
 Mathematics Student\
 [LinkedIn](https://www.linkedin.com/in/kailon-blue-6209a2221/)
 
-Camila Molinares\
-Computer Engineering Student\
-[LinkedIn](https://www.linkedin.com/in/emcode25/)
-
 Markel Manson\
 Computer Science Student\
 [LinkedIn](https://www.linkedin.com/in/markelmanson/)
+
+Kathleen Rawls\
+Computer Engineering Student\
+[LinkedIn](https://www.linkedin.com/in/kathleen-rawls/)
+
+Luke Brugger\
+Computer Science Student\
+[LinkedIn](https://www.linkedin.com/in/luke-brugger/)
 
 Michael Allen\
 Old Dominion University
