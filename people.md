@@ -28,6 +28,7 @@ Ph.D. Student\
 Syed Ibrahim Mustafa Shah B.\
 Ph.D. Student\
 [LinkedIn](https://www.linkedin.com/in/syedibrahimmustafashahbukhari/)
+[Personal Website](https://simsb-99.github.io/)
 
 ![Portrait photo of Syed Ibrahim Mustafa Shah B.]({{root_url}}/assets/images/people/ibrahim.jpg)
 
