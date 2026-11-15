@@ -11,7 +11,7 @@ Explorations into privacy notice and awareness for XR. Initial efforts are focus
 
 Nissi Otoo, G. Nikki Ramirez, Evan Selinger, Shaun Foster, Brendan David-John. 2026. At the Moving Beyond Clicks: Rethinking Consent and User Control in the Age of AI Workshop at ACM CHI 2026 (https://chi26clicks.wseymour.co.uk/).
 
- - [PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Notices.pdf)
+ - [PDF (accepted version)]({{root_url}}/assets/pdfs/AR_Visceral_Workshop.pdf)
 
 #### Visceral Notices and Privacy Mechanisms for Eye Tracking in Augmented Reality (ISMAR 2025)
 
